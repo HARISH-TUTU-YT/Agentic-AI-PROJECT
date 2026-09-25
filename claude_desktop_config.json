@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dine-inventory": {
+      "command": "C:\\Users\\haris\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+      "args": [
+        "c:\\Users\\haris\\OneDrive\\Desktop\\dine\\back\\back\\mcp_server.py"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
